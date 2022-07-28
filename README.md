@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there ✌️
+My name Is SALVIN SIBI😌
+- 🔭 I’m currently working on My Personal Project 
+- 🌱 I’m currently learning Backend Development
+- 🔎 focusing on Web Development👨🏻‍💻
+- 📫 How to reach me:
+- Email: salvinsibi.dev@gmail.com
+- Experience in: Frontend(HTML5,CSS,JAVA SCRIPT, BOOTSTRAP)
+- PYTHON, JAVA SCRIPT, C++(Basic)
+- ⚡ Fun fact: U Know Am a 16 Year old Developer😁
 
-<!--
-**Salvinsibi/Salvinsibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
