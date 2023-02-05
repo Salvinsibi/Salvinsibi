@@ -1,7 +1,7 @@
 ### Hi there ✌️
 My name Is SALVIN SIBI.
 - 🔭 I’m currently working on a Personal Project
-- 🌱 I’m currently React
+- 🌱 I’m currently Learning React
 - 🔎 focusing on MERN Stack👨🏻‍💻
 - Python Developer
 - Frontend Developer
